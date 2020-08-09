@@ -55,7 +55,7 @@
                   download: !1,
                   counter: !0,
                   appendCounterTo: ".lg-toolbar",
-                  swipeThreshold: 200,
+                  swipeThreshold: 80,
                   enableSwipe: !0,
                   enableDrag: !0,
                   dynamic: !0,

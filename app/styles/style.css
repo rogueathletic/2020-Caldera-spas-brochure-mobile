@@ -22,10 +22,11 @@ transparent;
 #000000;
 #f57b56
 */
-* {
+a,
+span::after {
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
-    }
+}
 
 
 
@@ -38,7 +39,7 @@ transparent;
 }
 
 @font-face {
-      font-family:"magdelin-light";
+      font-family: "magdelin-light";
       src: url("app/fonts/magdelin-light/magdelin-light.eot");
       src: url("app/fonts/magdelin-light/magdelin-light.otf") format("opentype"), url("app/fonts/magdelin-light/magdelin-light.woff2") format('woff2'), url("app/fonts/magdelin-light/magdelin-light.woff"), format('woff'), url("app/fonts/magdelin-light/magdelin-light.otf") format('truetype'), url("app/fonts/magdelin-light/magdelin-light.svg") format('svg');
       font-weight: normal;
@@ -74,7 +75,7 @@ transparent;
 svg,
 p,
 span:not(::after) {
-      font-family:  "magdelin-light", 'sans-serif'!important;
+      font-family: "magdelin-light", 'sans-serif' !important;
 }
 
 
@@ -93,7 +94,8 @@ span:not(::after) {
 
 .lg-actions .lg-next,
 .lg-actions .lg-prev {
-      background-color:rgba(255, 255, 255, 0.7);;
+      background-color: rgba(255, 255, 255, 0.7);
+      ;
       border-radius: 50%;
       box-shadow: 0 0 15px -7px #000000;
       color: #f57b56 !important;
@@ -314,9 +316,9 @@ span:not(::after) {
       cursor: pointer;
       float: right;
       font-size: 24px;
-      height: 47px;
-      line-height: 27px;
-      padding: 10px 0;
+      height: 40px;
+      line-height: 40px;
+      padding: 5px 0;
       text-align: center;
       width: 50px;
       text-decoration: none !important;
@@ -372,7 +374,7 @@ span:not(::after) {
       vertical-align: middle;
       position: relative;
       left: 40px;
-      font-family:  'sans-serif'!important;
+      font-family: 'sans-serif' !important;
 }
 
 
@@ -430,7 +432,7 @@ span:not(::after) {
 
 #lg-counter-current,
 #lg-counter-all {
-      font-family: magdelin-light, 'sans-serif'!important;
+      font-family: magdelin-light, 'sans-serif' !important;
 }
 
 .lg-toolbar,
@@ -441,24 +443,43 @@ span:not(::after) {
       -moz-transition: -moz-transform 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, color 0.2s linear;
       -o-transition: -o-transform 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, color 0.2s linear;
       transition: transform 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, color 0.2s linear;
+      -webkit-transition: 333ms;
+      -moz-transition: 333ms;
+      -ms-transition: 333ms;
+      -o-transition: 333ms;
 }
 
 .lg-hide-items .lg-prev {
       opacity: 0;
       -webkit-transform: translate3d(-10px, 0, 0);
       transform: translate3d(-10px, 0, 0);
+      transition: translate3d linear 333ms;
+      -webkit-transition: translate3d linear 333ms;
+      -moz-transition: translate3d linear 333ms;
+      -ms-transition: translate3d linear 333ms;
+      -o-transition: translate3d linear 333ms;
 }
 
 .lg-hide-items .lg-next {
       opacity: 0;
       -webkit-transform: translate3d(10px, 0, 0);
       transform: translate3d(10px, 0, 0);
+      transition: translate3d linear 333ms;
+      -webkit-transition: translate3d linear 333ms;
+      -moz-transition: translate3d linear 333ms;
+      -ms-transition: translate3d linear 333ms;
+      -o-transition: translate3d linear 333ms;
 }
 
 .lg-hide-items .lg-toolbar {
       opacity: 0;
       -webkit-transform: translate3d(0, -10px, 0);
       transform: translate3d(0, -10px, 0);
+      transition: translate3d linear 333ms;
+      -webkit-transition: translate3d linear 333ms;
+      -moz-transition: translate3d linear 333ms;
+      -ms-transition: translate3d linear 333ms;
+      -o-transition: translate3d linear 333ms;
 }
 
 body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-object {
@@ -535,7 +556,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
       overflow: hidden;
       height: 100%;
       border: 2px solid #ffffff;
-      background-color:#ffffff;
+      background-color: #ffffff;
       border-radius: 0;
       margin-bottom: 5px;
       -webkit-border-radius: 0;
@@ -592,7 +613,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
       font-size: 16px;
       font-variant: small-caps;
       letter-spacing: 1px;
-      font-family: magdelin-light, 'sans-serif'!important;
+      font-family: magdelin-light, 'sans-serif' !important;
       height: 30px;
       line-height: 27px;
       padding: 2px 5px 10px;
@@ -609,14 +630,14 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
 .lg-outer .lg-toogle-thumb:after {
       content: "thumbnails";
-      font-family: magdelin-light, 'sans-serif'!important;
+      font-family: magdelin-light, 'sans-serif' !important;
 }
 
 .lg-dropdown-text {
-      font-family: magdelin-light, 'sans-serif'!important;
+      font-family: magdelin-light, 'sans-serif' !important;
 }
 
-.lg-outer .lg-toogle-thumb:hover {
+.lg-outer .lg-toogle-thumb:not(:active):hover {
       color: #f57b56;
 }
 
@@ -863,7 +884,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
       transition: visibility 0s linear 0.18s, opacity 0.18s linear 0s;
 }
 
-.lg-dropdown-active  {
+.lg-dropdown-active {
       transition-duration: 333ms ease;
 }
 
@@ -880,7 +901,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
       visibility: visible;
 }
 
-.lg-outer.lg-dropdown-active #lg-share {
+.lg-outer.lg-dropdown-active:not(:focus) #lg-share {
       color: #f57b56;
 }
 
@@ -1101,7 +1122,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
       display: block;
       white-space: pre;
       padding: 4px 12px;
-      font-family: magdelin-light, 'sans-serif'!important;
+      font-family: magdelin-light, 'sans-serif' !important;
       font-size: 12px;
 }
 
@@ -1130,7 +1151,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
 /* sets menu dropdown icon positioning */
 .lg-outer .lg-dropdown .lg-icon {
-      color:rgba(0, 0, 0, 0.7);
+      color: rgba(0, 0, 0, 0.7);
       display: inline-block;
       float: none;
       font-size: 20px;
@@ -1439,6 +1460,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
             scroll-behavior: auto !important;
       }
 }
+
 @media only screen and (prefers-color-scheme: light) and (prefers-color-scheme: dark) {
       .lg-outer {
             background-color: #ffffff !important;
