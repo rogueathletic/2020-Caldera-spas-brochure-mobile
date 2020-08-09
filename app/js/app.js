@@ -56,7 +56,7 @@
                   counter: !0,
                   appendCounterTo: ".lg-toolbar",
                   swipeThreshold: 200,
-                  enableSwipe: !0,
+                  enableSwipe: !1,
                   enableDrag: !0,
                   dynamic: !0,
                   dynamicEl: [],
