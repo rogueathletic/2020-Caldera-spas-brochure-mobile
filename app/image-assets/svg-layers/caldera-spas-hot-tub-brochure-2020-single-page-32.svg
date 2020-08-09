@@ -1153,7 +1153,7 @@ W9hH8HzL+V7C/hdlbNP6cy//2Q==" transform="matrix(1.0007 0 0 1.0007 414.924 621.91
 			<rect clip-path="url(#SVGID_2_)" fill="url(#SVGID_16_)" width="612" height="792"/>
 		</g>
 	</mask>
-	<g clip-path="url(#SVGID_2_)" mask="url(#SVGID_15_)">
+	<g opacity="0.4" clip-path="url(#SVGID_2_)" mask="url(#SVGID_15_)">
 		<g>
 			<defs>
 				<rect id="SVGID_17_" x="-18" y="-15.86" width="829.07" height="817.86"/>

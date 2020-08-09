@@ -602,7 +602,7 @@ W9WXtb1Ze1vVl7W9WXtb1Ze1vVl7W9WXtb1Ze1vVl7W9WXtb1Ze1vVl7W9WXtb1Ze1vVlwn1H/6n
 			<rect clip-path="url(#SVGID_2_)" fill="url(#SVGID_8_)" width="612" height="792"/>
 		</g>
 	</mask>
-	<g clip-path="url(#SVGID_2_)" mask="url(#SVGID_7_)">
+	<g opacity="0.4" clip-path="url(#SVGID_2_)" mask="url(#SVGID_7_)">
 		<g>
 			<defs>
 				<rect id="SVGID_9_" x="-18" y="-15.86" width="829.07" height="817.86"/>

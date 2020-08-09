@@ -1856,9 +1856,9 @@ Pqv/2Q==" transform="matrix(1.0028 0 0 1.0009 98.571 525.8181)">
 			</g>
 		</g>
 	</g>
-	<g clip-path="url(#SVGID_2_)">
+	<g opacity="0.3" clip-path="url(#SVGID_2_)">
 		<defs>
-			<rect id="SVGID_23_" width="200" height="792"/>
+			<rect id="SVGID_23_" opacity="0.3" width="200" height="792"/>
 		</defs>
 		<clipPath id="SVGID_24_">
 			<use xlink:href="#SVGID_23_"  overflow="visible"/>
