@@ -1000,11 +1000,11 @@ function (a, b) {
                         b.core.$outer.removeClass("lg-dropdown-active")
                   }), b.core.$el.on("onAfterSlide.lg.tm", function (c, d, e) {
                         setTimeout(function () {
-                              a("#lg-jump-caldera-difference").attr("href", "#lg=1&slide=7"), 
-                              a("#lg-jump-perfect-fit").attr("href", "#lg=1&slide=22"),
-                              a("#lg-jump-detailed-specifications").attr("href", "#lg=1&slide=36"),
-                              a("#lg-jump-essentials-and-accessories").attr("href", "#lg=1&slide=38"),
-                              a("#lg-jump-warranty").attr("href", "#lg=1&slide=50")
+                              a("#lg-jump-caldera-difference").attr("href", "#lg=1&slide=5"), 
+                              a("#lg-jump-perfect-fit").attr("href", "#lg=1&slide=21"),
+                              a("#lg-jump-detailed-specifications").attr("href", "#lg=1&slide=35"),
+                              a("#lg-jump-essentials-and-accessories").attr("href", "#lg=1&slide=37"),
+                              a("#lg-jump-warranty").attr("href", "#lg=1&slide=49")
                         }, 100)
                   })
             }, c.prototype.getSahreProps = function (a, b) {
