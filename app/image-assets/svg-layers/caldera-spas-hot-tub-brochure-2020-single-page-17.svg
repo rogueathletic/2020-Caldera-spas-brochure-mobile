@@ -2,7 +2,6 @@
 <!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
-	 	 	  <rect fill="#ffffff" width="612" height="792"/>
 <g>
 	<defs>
 		<rect id="SVGID_1_" width="612" height="792"/>
@@ -281,43 +280,6 @@ v3HPB70dxjwe9Hh3GPB70eHcY8HvR4dxpcHvCPDuNLg94Rd1nWdZ1nWdZ1n4ln4ln4ln4ln4ln4l
 n4ln4ln4ln4ln4ln4ln4ln4ln4l83Es/Evm4l83Evm4l83Evm4l83Evm4l83Evm4l83Evm4l83Ev
 m4l83Ej8V1t2lf/Z" transform="matrix(1.0007 0 0 1.0001 -1.0558 -1.0363)">
 				</image>
-			</g>
-		</g>
-	</g>
-	<g opacity="0.3" clip-path="url(#SVGID_2_)">
-		<defs>
-			<rect id="SVGID_7_" opacity="0.3" width="315" height="792"/>
-		</defs>
-		<clipPath id="SVGID_8_">
-			<use xlink:href="#SVGID_7_"  overflow="visible"/>
-		</clipPath>
-		<g opacity="0.5" clip-path="url(#SVGID_8_)">
-			<g>
-				<defs>
-					<rect id="SVGID_9_" x="-630" y="-16" width="945" height="818"/>
-				</defs>
-				<clipPath id="SVGID_10_">
-					<use xlink:href="#SVGID_9_"  overflow="visible"/>
-				</clipPath>
-				<g clip-path="url(#SVGID_10_)">
-					<defs>
-						<rect id="SVGID_11_" width="306" height="792"/>
-					</defs>
-					<clipPath id="SVGID_12_">
-						<use xlink:href="#SVGID_11_"  overflow="visible"/>
-					</clipPath>
-					
-						<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="0" y1="791.0444" x2="1" y2="791.0444" gradientTransform="matrix(0 -810 -810 0 640899 801)">
-						<stop  offset="0" style="stop-color:#99928A"/>
-						<stop  offset="0.0163" style="stop-color:#99928A"/>
-						<stop  offset="0.1236" style="stop-color:#A29C95"/>
-						<stop  offset="0.3113" style="stop-color:#BCB7B2"/>
-						<stop  offset="0.5553" style="stop-color:#E4E2E0"/>
-						<stop  offset="0.6992" style="stop-color:#FFFFFF"/>
-						<stop  offset="1" style="stop-color:#FFFFFF"/>
-					</linearGradient>
-					<rect clip-path="url(#SVGID_12_)" fill="url(#SVGID_13_)" width="306" height="792"/>
-				</g>
 			</g>
 		</g>
 	</g>
@@ -2379,20 +2341,20 @@ m4l83Ej8V1t2lf/Z" transform="matrix(1.0007 0 0 1.0001 -1.0558 -1.0363)">
 	</g>
 	<g clip-path="url(#SVGID_2_)">
 		<defs>
-			<path id="SVGID_14_" d="M383.28,140.64c0,48.25,39.11,87.36,87.36,87.36c48.25,0,87.36-39.11,87.36-87.36
+			<path id="SVGID_7_" d="M383.28,140.64c0,48.25,39.11,87.36,87.36,87.36c48.25,0,87.36-39.11,87.36-87.36
 				c0-48.25-39.11-87.36-87.36-87.36C422.39,53.28,383.28,92.39,383.28,140.64"/>
 		</defs>
-		<clipPath id="SVGID_15_">
-			<use xlink:href="#SVGID_14_"  overflow="visible"/>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  overflow="visible"/>
 		</clipPath>
-		<g clip-path="url(#SVGID_15_)">
+		<g clip-path="url(#SVGID_8_)">
 			<defs>
-				<rect id="SVGID_16_" x="382.26" y="52.26" width="176.76" height="176.76"/>
+				<rect id="SVGID_9_" x="382.26" y="52.26" width="176.76" height="176.76"/>
 			</defs>
-			<clipPath id="SVGID_17_">
-				<use xlink:href="#SVGID_16_"  overflow="visible"/>
+			<clipPath id="SVGID_10_">
+				<use xlink:href="#SVGID_9_"  overflow="visible"/>
 			</clipPath>
-			<g clip-path="url(#SVGID_17_)">
+			<g clip-path="url(#SVGID_10_)">
 				
 					<image overflow="visible" width="176" height="176" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAAU5AAAKxgAAE5r/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
@@ -2489,12 +2451,12 @@ Yn//2Q==" transform="matrix(1.0043 0 0 1.0043 382.264 52.2581)">
 	</g>
 	<g clip-path="url(#SVGID_2_)">
 		<defs>
-			<rect id="SVGID_18_" x="401.81" y="249.57" width="27.33" height="20.23"/>
+			<rect id="SVGID_11_" x="401.81" y="249.57" width="27.33" height="20.23"/>
 		</defs>
-		<clipPath id="SVGID_19_">
-			<use xlink:href="#SVGID_18_"  overflow="visible"/>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  overflow="visible"/>
 		</clipPath>
-		<path clip-path="url(#SVGID_19_)" fill="#6D6E71" d="M409.33,260.03c1.07,0.53,1.94,1.18,2.6,1.91h0
+		<path clip-path="url(#SVGID_12_)" fill="#6D6E71" d="M409.33,260.03c1.07,0.53,1.94,1.18,2.6,1.91h0
 			c0.01-0.01,0.02-0.01,0.04-0.02l0.07-0.05c0.01-0.01,0.03-0.02,0.04-0.03c0.01-0.01,0.02-0.02,0.03-0.02
 			c0.01-0.01,0.02-0.01,0.04-0.03c0.01-0.01,0.03-0.02,0.04-0.03l0.12-0.09c0.02-0.01,0.03-0.02,0.04-0.03
 			c0.02-0.02,0.04-0.03,0.06-0.05l0.01-0.01c0.03-0.02,0.05-0.04,0.07-0.05c0.02-0.02,0.04-0.04,0.06-0.05l0.03-0.03
@@ -2513,7 +2475,7 @@ Yn//2Q==" transform="matrix(1.0043 0 0 1.0043 382.264 52.2581)">
 			c0-0.06,0-0.12,0-0.17c0-0.45-0.07-0.92-0.2-1.38l-0.02-0.09c-1.08-2.62-3.09-4.76-5.66-6.03c-0.08-0.04-0.62-0.23-0.79-0.28
 			c-0.43-0.13-0.88-0.2-1.32-0.2c-1.73,0-3.3,0.95-4.08,2.47c-1.18,2.31,0.11,4.98,2.04,6.04c0.7,0.38,1.37,0.65,2.06,0.83
 			C406.78,259.05,408.31,259.52,409.33,260.03"/>
-		<path clip-path="url(#SVGID_19_)" fill="#F47A55" d="M428.68,252.06c-0.78-1.54-2.35-2.49-4.1-2.49c-0.45,0-0.9,0.07-1.33,0.2
+		<path clip-path="url(#SVGID_12_)" fill="#F47A55" d="M428.68,252.06c-0.78-1.54-2.35-2.49-4.1-2.49c-0.45,0-0.9,0.07-1.33,0.2
 			c-0.17,0.05-0.71,0.24-0.79,0.28c-2.68,1.32-4.74,3.58-5.79,6.35l-0.01,0.03c-0.22,0.49-0.4,1.13-0.54,1.9
 			c-0.1,0.5-0.16,1.01-0.19,1.51c-0.05,0.62-0.05,1.07-0.04,1.29c0.05,0.7,0.16,1.42,0.34,2.13c0.21,0.87,0.53,1.71,0.94,2.52
 			c0.09,0.17,0.18,0.35,0.29,0.53v-0.17v-0.11v-0.05c0-0.01,0-0.02,0-0.03c0-0.05,0-0.11,0-0.17v-0.02c0-0.01,0-0.02,0-0.02v-0.05
@@ -2530,7 +2492,7 @@ Yn//2Q==" transform="matrix(1.0043 0 0 1.0043 382.264 52.2581)">
 			c0.02-0.02,0.02-0.03,0.03-0.04c0.04-0.06,0.07-0.1,0.11-0.15c0.03-0.04,0.05-0.07,0.09-0.1l0.02-0.02
 			c0.68-0.8,1.59-1.5,2.73-2.06c1.04-0.52,2.55-0.99,2.96-1.09c0.69-0.18,1.37-0.45,2.07-0.83
 			C428.57,257.07,429.86,254.38,428.68,252.06"/>
-		<path clip-path="url(#SVGID_19_)" fill="#A19B93" d="M414.97,259.85c-0.01-0.19-0.03-0.39-0.05-0.59
+		<path clip-path="url(#SVGID_12_)" fill="#A19B93" d="M414.97,259.85c-0.01-0.19-0.03-0.39-0.05-0.59
 			c-0.11,0.4-0.28,0.79-0.48,1.16c-0.17,0.3-0.36,0.59-0.57,0.87c-0.1,0.12-0.2,0.24-0.3,0.36c-0.15,0.17-0.32,0.33-0.49,0.47
 			c-0.28,0.24-0.58,0.46-0.89,0.65c-0.47,0.27-0.97,0.49-1.49,0.63c-0.55,0.16-1.13,0.23-1.71,0.23c-0.14,0-0.28,0-0.42,0
 			c-0.1,0-0.21,0-0.32,0.02c-0.15,0.01-0.29,0.03-0.44,0.07c-0.14,0.04-0.28,0.08-0.42,0.14c-0.14,0.05-0.27,0.12-0.4,0.2
@@ -2539,7 +2501,7 @@ Yn//2Q==" transform="matrix(1.0043 0 0 1.0043 382.264 52.2581)">
 			c0.14-0.15,0.27-0.3,0.39-0.46c0.15-0.21,0.3-0.42,0.43-0.64c0.34-0.54,0.65-1.1,0.9-1.69c0.25-0.58,0.45-1.18,0.61-1.79
 			c0.16-0.64,0.28-1.29,0.34-1.95c0.02-0.21,0.03-0.42,0.03-0.63c0-0.29-0.02-0.57-0.04-0.85
 			C414.97,259.86,414.97,259.85,414.97,259.85C414.96,259.66,415.02,260.45,414.97,259.85"/>
-		<path clip-path="url(#SVGID_19_)" fill="#EF4123" d="M425.46,266.12c-0.18-0.89-0.77-1.68-1.57-2.11
+		<path clip-path="url(#SVGID_12_)" fill="#EF4123" d="M425.46,266.12c-0.18-0.89-0.77-1.68-1.57-2.11
 			c-0.39-0.21-0.88-0.34-1.3-0.37c-0.26-0.02-0.52,0-0.77-0.01c-0.57-0.01-1.13-0.1-1.68-0.27c-0.27-0.08-0.54-0.18-0.79-0.3
 			c-0.02-0.01-0.04-0.02-0.07-0.03l-0.06-0.03l-0.1,0.15c-0.02,0.02-0.03,0.05-0.05,0.07c-0.02,0.03-0.04,0.05-0.05,0.08
 			c-0.31,0.55-0.54,1.12-0.66,1.74c0,0-0.33,1.95,0.43,3.1c0,0,0,0.01,0.01,0.02c0.27,0.26,0.55,0.5,0.86,0.72

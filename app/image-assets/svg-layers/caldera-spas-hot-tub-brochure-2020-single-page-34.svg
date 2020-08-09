@@ -2,7 +2,9 @@
 <!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
-	 	  <rect fill="#ffffff" width="612" height="792"/>
+<g>
+	<path fill="#E6E6E7" d="M612,792V557.39C257.07,512.64,44.93,579.2,0,595.45V792H612z"/>
+</g>
 <g>
 	<path fill="#F36C52" d="M91.27,201.85c0,2.03-1.31,3.36-3.33,3.36h-3.17v4.47h-0.86v-11.2h4.02
 		C89.96,198.48,91.27,199.8,91.27,201.85z M90.4,201.85c0-1.55-1-2.56-2.5-2.56h-3.12v5.11h3.12C89.4,204.4,90.4,203.39,90.4,201.85
@@ -245,9 +247,6 @@
 		/>
 	<path fill="#F36C52" d="M341.39,478.67h0.86l-0.08,3.12h-0.69L341.39,478.67z M343.73,478.67h0.85l-0.08,3.12h-0.69L343.73,478.67z
 		"/>
-</g>
-<g>
-	<path fill="#E6E6E7" d="M612,792V557.39C257.07,512.64,44.93,579.2,0,595.45V792H612z"/>
 </g>
 <g>
 	<path fill="#5E6367" d="M294.44,499.75l0.3-0.37c0.41,0.58,1.17,0.95,1.94,0.95c1.02,0,1.7-0.5,1.7-1.24

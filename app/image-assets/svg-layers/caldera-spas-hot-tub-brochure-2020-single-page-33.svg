@@ -2,7 +2,6 @@
 <!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
-	 	  <rect fill="#ffffff" width="612" height="792"/>
 <g>
 	<defs>
 		<rect id="SVGID_1_" width="612" height="792"/>
@@ -20,7 +19,8 @@
 		<g clip-path="url(#SVGID_4_)">
 			<g>
 				<defs>
-					<rect id="SVGID_5_" x="-630" y="-15.86" width="829.07" height="817.86"/>
+					<path id="SVGID_5_" d="M175.93,314.79c14.33-104.93,28.66-209.86,43-314.79C145.95,0,72.97,0,0,0c0,159.98,0,319.96,0,479.93
+						C58.64,424.88,117.28,369.84,175.93,314.79z"/>
 				</defs>
 				<clipPath id="SVGID_6_">
 					<use xlink:href="#SVGID_5_"  overflow="visible"/>
@@ -2072,19 +2072,19 @@ LfNvFTZ/2M+pTZ5s+pUlvm3iqC3ybxVJb5N4qbfJvFTb5N4r4fJvFYvIcVi1jijKWUZdK//Z" transf
 			</g>
 		</g>
 	</g>
-	<g opacity="0.95" clip-path="url(#SVGID_2_)">
+	<g clip-path="url(#SVGID_2_)">
 		<defs>
-			<rect id="SVGID_23_" opacity="0.95" width="200" height="792"/>
+			<rect id="SVGID_23_" width="200" height="792"/>
 		</defs>
 		<clipPath id="SVGID_24_">
 			<use xlink:href="#SVGID_23_"  overflow="visible"/>
 		</clipPath>
 		<defs>
-			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-630" y="-15.86" width="830" height="817.86">
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-630" y="-15.86" width="829.07" height="817.86">
 				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 			</filter>
 		</defs>
-		<mask maskUnits="userSpaceOnUse" x="-630" y="-15.86" width="830" height="817.86" id="SVGID_25_">
+		<mask maskUnits="userSpaceOnUse" x="-630" y="-15.86" width="829.07" height="817.86" id="SVGID_25_">
 			<g filter="url(#Adobe_OpacityMaskFilter)">
 				
 					<linearGradient id="SVGID_26_" gradientUnits="userSpaceOnUse" x1="0" y1="790.8553" x2="1" y2="790.8553" gradientTransform="matrix(0 -809.858 -809.858 0 640786.5 801)">
@@ -2113,27 +2113,17 @@ LfNvFTZ/2M+pTZ5s+pUlvm3iqC3ybxVJb5N4qbfJvFTb5N4r4fJvFYvIcVi1jijKWUZdK//Z" transf
 				<clipPath id="SVGID_28_">
 					<use xlink:href="#SVGID_27_"  overflow="visible"/>
 				</clipPath>
-				<g clip-path="url(#SVGID_28_)">
-					<defs>
-						<rect id="SVGID_29_" width="200" height="792"/>
-					</defs>
-					<clipPath id="SVGID_30_">
-						<use xlink:href="#SVGID_29_"  overflow="visible"/>
-					</clipPath>
-					<path clip-path="url(#SVGID_30_)" d="M-621-8.86h798.29c0,0,102.48,348.8-272.96,523.24
-						C-275.13,597.77-278.42,702.36-277.88,801c0-0.77-343.12,0-343.12,0V-8.86"/>
-				</g>
 			</g>
 		</g>
 	</g>
 	<g clip-path="url(#SVGID_2_)">
 		<defs>
-			<rect id="SVGID_31_" x="227.85" y="71.8" width="27.33" height="20.23"/>
+			<rect id="SVGID_29_" x="227.85" y="71.8" width="27.33" height="20.23"/>
 		</defs>
-		<clipPath id="SVGID_32_">
-			<use xlink:href="#SVGID_31_"  overflow="visible"/>
+		<clipPath id="SVGID_30_">
+			<use xlink:href="#SVGID_29_"  overflow="visible"/>
 		</clipPath>
-		<path clip-path="url(#SVGID_32_)" fill="#6D6E71" d="M235.38,82.26c1.07,0.53,1.94,1.17,2.6,1.91h0c0.01-0.01,0.02-0.02,0.04-0.02
+		<path clip-path="url(#SVGID_30_)" fill="#6D6E71" d="M235.38,82.26c1.07,0.53,1.94,1.17,2.6,1.91h0c0.01-0.01,0.02-0.02,0.04-0.02
 			l0.07-0.04c0.02-0.01,0.03-0.02,0.04-0.03c0.01-0.01,0.02-0.02,0.03-0.02c0.01-0.01,0.02-0.02,0.04-0.02
 			c0.01-0.01,0.03-0.02,0.05-0.03l0.12-0.09c0.02-0.01,0.03-0.02,0.04-0.03c0.02-0.02,0.04-0.03,0.06-0.05l0.01-0.01
 			c0.02-0.02,0.05-0.04,0.07-0.05c0.02-0.02,0.04-0.03,0.06-0.05l0.03-0.03c0.01-0.01,0.02-0.02,0.04-0.03l0.01,0
@@ -2151,7 +2141,7 @@ LfNvFTZ/2M+pTZ5s+pUlvm3iqC3ybxVJb5N4qbfJvFTb5N4r4fJvFYvIcVi1jijKWUZdK//Z" transf
 			c0-0.02,0-0.04,0-0.06l0-0.05c0-0.01,0-0.02,0-0.04l0-0.01c0-0.06,0-0.12,0-0.17c0-0.46-0.07-0.92-0.2-1.38l-0.02-0.09
 			c-1.08-2.62-3.09-4.75-5.65-6.02c-0.09-0.04-0.62-0.23-0.79-0.29c-0.43-0.13-0.88-0.2-1.32-0.2c-1.74,0-3.3,0.95-4.07,2.48
 			c-1.18,2.3,0.1,4.98,2.04,6.04c0.69,0.38,1.37,0.65,2.06,0.83C232.82,81.28,234.35,81.75,235.38,82.26"/>
-		<path clip-path="url(#SVGID_32_)" fill="#F47A55" d="M254.73,74.29c-0.78-1.54-2.35-2.49-4.1-2.49c-0.45,0-0.9,0.06-1.33,0.2
+		<path clip-path="url(#SVGID_30_)" fill="#F47A55" d="M254.73,74.29c-0.78-1.54-2.35-2.49-4.1-2.49c-0.45,0-0.9,0.06-1.33,0.2
 			c-0.17,0.05-0.71,0.24-0.79,0.28c-2.68,1.33-4.74,3.58-5.79,6.35l-0.01,0.03c-0.22,0.49-0.4,1.13-0.54,1.9
 			c-0.1,0.5-0.16,1.01-0.19,1.51c-0.05,0.62-0.05,1.08-0.03,1.29c0.04,0.7,0.16,1.42,0.34,2.13c0.21,0.87,0.53,1.71,0.94,2.52
 			c0.09,0.17,0.18,0.35,0.29,0.53l0-0.17v-0.11v-0.05c0-0.01,0-0.02,0-0.03c0-0.05,0-0.11,0-0.16l0-0.02c0-0.01,0-0.01,0-0.02
@@ -2167,7 +2157,7 @@ LfNvFTZ/2M+pTZ5s+pUlvm3iqC3ybxVJb5N4qbfJvFTb5N4r4fJvFYvIcVi1jijKWUZdK//Z" transf
 			c0.02-0.02,0.03-0.03,0.04-0.05c0.01-0.02,0.02-0.03,0.04-0.05l0.06-0.09c0.02-0.02,0.02-0.03,0.03-0.04
 			c0.04-0.05,0.08-0.1,0.11-0.14c0.03-0.04,0.06-0.07,0.08-0.11l0.02-0.02c0.67-0.8,1.59-1.5,2.73-2.07
 			c1.04-0.52,2.56-0.98,2.96-1.09c0.69-0.17,1.37-0.45,2.07-0.83C254.62,79.3,255.91,76.61,254.73,74.29"/>
-		<path clip-path="url(#SVGID_32_)" fill="#A19B93" d="M241.02,82.08c-0.01-0.19-0.03-0.39-0.05-0.59c-0.12,0.4-0.28,0.79-0.48,1.16
+		<path clip-path="url(#SVGID_30_)" fill="#A19B93" d="M241.02,82.08c-0.01-0.19-0.03-0.39-0.05-0.59c-0.12,0.4-0.28,0.79-0.48,1.16
 			c-0.17,0.3-0.36,0.6-0.57,0.87c-0.1,0.12-0.2,0.24-0.3,0.35c-0.15,0.17-0.32,0.33-0.48,0.47c-0.29,0.24-0.58,0.46-0.9,0.65
 			c-0.47,0.28-0.97,0.49-1.49,0.63c-0.55,0.16-1.13,0.23-1.71,0.23c-0.14,0-0.28,0-0.41,0c-0.11,0-0.22,0-0.32,0.02
 			c-0.15,0.02-0.29,0.04-0.44,0.07c-0.14,0.04-0.28,0.09-0.42,0.14c-0.14,0.06-0.27,0.13-0.4,0.2c-0.23,0.12-0.44,0.27-0.62,0.45
@@ -2176,7 +2166,7 @@ LfNvFTZ/2M+pTZ5s+pUlvm3iqC3ybxVJb5N4qbfJvFTb5N4r4fJvFYvIcVi1jijKWUZdK//Z" transf
 			c0.15-0.2,0.3-0.42,0.43-0.64c0.34-0.54,0.65-1.1,0.9-1.68c0.25-0.58,0.45-1.18,0.61-1.79c0.16-0.64,0.28-1.29,0.34-1.95
 			c0.02-0.21,0.03-0.42,0.03-0.63c0-0.28-0.02-0.57-0.04-0.85C241.02,82.09,241.02,82.09,241.02,82.08
 			C241,81.89,241.06,82.69,241.02,82.08"/>
-		<path clip-path="url(#SVGID_32_)" fill="#EF4123" d="M251.51,88.35c-0.18-0.89-0.77-1.68-1.57-2.11
+		<path clip-path="url(#SVGID_30_)" fill="#EF4123" d="M251.51,88.35c-0.18-0.89-0.77-1.68-1.57-2.11
 			c-0.39-0.21-0.88-0.34-1.31-0.37c-0.25-0.02-0.51,0-0.77,0c-0.57-0.01-1.13-0.1-1.68-0.26c-0.27-0.08-0.53-0.18-0.79-0.3
 			c-0.02-0.01-0.05-0.02-0.07-0.03l-0.06-0.03l-0.1,0.15c-0.02,0.03-0.03,0.05-0.05,0.07c-0.02,0.03-0.03,0.05-0.05,0.08
 			c-0.31,0.55-0.54,1.12-0.66,1.74c0,0-0.33,1.95,0.43,3.11c0,0.01,0,0.01,0.01,0.02c0.27,0.27,0.55,0.51,0.86,0.72
