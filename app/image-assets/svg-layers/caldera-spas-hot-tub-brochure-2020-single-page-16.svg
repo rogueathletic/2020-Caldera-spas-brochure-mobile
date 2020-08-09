@@ -658,7 +658,7 @@ isVisVisVisVisVisVisVisVisVisUGdf//Z" transform="matrix(1.0003 0 0 1.0001 -1.167
 				<stop  offset="0.6992" style="stop-color:#FFFFFF"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</linearGradient>
-			<rect clip-path="url(#SVGID_6_)" fill="url(#SVGID_7_)" width="612" height="792"/>
+			<rect opacity="0.3" clip-path="url(#SVGID_6_)" fill="url(#SVGID_7_)" width="612" height="792"/>
 		</g>
 	</g>
 	<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M186.07,711.88c0.11-1.38,0.75-2.05,1.9-2.05c0.92,0,1.52,0.56,1.52,1.78
